@@ -1,0 +1,4 @@
+name: FoxWars
+version: '${project.version}'
+main: nl.officialfox.foxwars.FoxWars
+api-version: '1.20'
