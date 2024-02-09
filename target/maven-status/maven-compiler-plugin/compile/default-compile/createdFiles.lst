@@ -1,0 +1,8 @@
+nl\officialfox\foxwars\game\Arena.class
+nl\officialfox\foxwars\configs\ArenaConfig.class
+nl\officialfox\foxwars\FoxWars.class
+nl\officialfox\foxwars\manager\ArenaManager.class
+nl\officialfox\foxwars\commands\LobbyCommand.class
+nl\officialfox\foxwars\commands\ArenaCommands.class
+nl\officialfox\foxwars\enums\GameState.class
+nl\officialfox\foxwars\game\Game.class
